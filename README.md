@@ -44,5 +44,5 @@ Este proyecto realiza un análisis automatizado de contenido noticioso a nivel c
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Nachuwu/Desafio-Tecnico.git
    cd tu_repositorio
